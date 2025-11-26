@@ -15,4 +15,8 @@ c = 1
 
 # git commit -m 'wiadomosc' - wykonanie commita z wiadomością
 
+# git log --oneline - informacje o commitach
+
+x = 1000
+
 
